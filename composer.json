@@ -17,6 +17,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0",
-        "topthink/framework": "5.1.*",
+        "topthink/framework": "5.1.*"
     }
 }
