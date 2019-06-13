@@ -1,5 +1,5 @@
 {
-    "name": "lin-cms-file/file-upload",
+    "name": "lin-cms-tp/utils",
     "description": "lin-cms-file PPPPPP",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
     "psr-4": {
-      "LinCmsFile\\fileUpload\\": "src"
+      "LinCmsTp\\utils\\": "src"
     }
 },
     "minimum-stability": "dev",
