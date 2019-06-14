@@ -4,7 +4,7 @@
 * Date: 2019-06-08
 *Time: 16:07
 */
-namespace LinCmsFile\fileUpload;
+namespace LinCmsTp\utils;
 use think\facade\Config;
 use app\lib\exception\file\FileException;
 abstract class Files
